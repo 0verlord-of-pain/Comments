@@ -1,0 +1,12 @@
+P:\Programs\GitHub\Comments\Comments.Domain\bin\Debug\net6.0\Comments.Domain.deps.json
+P:\Programs\GitHub\Comments\Comments.Domain\bin\Debug\net6.0\Comments.Domain.dll
+P:\Programs\GitHub\Comments\Comments.Domain\bin\Debug\net6.0\Comments.Domain.pdb
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\Comments.Domain.csproj.AssemblyReference.cache
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\Comments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\Comments.Domain.AssemblyInfoInputs.cache
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\Comments.Domain.AssemblyInfo.cs
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\Comments.Domain.csproj.CoreCompileInputs.cache
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\Comments.Domain.dll
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\refint\Comments.Domain.dll
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\Comments.Domain.pdb
+P:\Programs\GitHub\Comments\Comments.Domain\obj\Debug\net6.0\ref\Comments.Domain.dll

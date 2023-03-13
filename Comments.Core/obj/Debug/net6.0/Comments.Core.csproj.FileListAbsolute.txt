@@ -1,0 +1,12 @@
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\Comments.Core.csproj.AssemblyReference.cache
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\Comments.Core.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\Comments.Core.AssemblyInfoInputs.cache
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\Comments.Core.AssemblyInfo.cs
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\Comments.Core.csproj.CoreCompileInputs.cache
+P:\Programs\GitHub\Comments\Comments.Core\bin\Debug\net6.0\Comments.Core.deps.json
+P:\Programs\GitHub\Comments\Comments.Core\bin\Debug\net6.0\Comments.Core.dll
+P:\Programs\GitHub\Comments\Comments.Core\bin\Debug\net6.0\Comments.Core.pdb
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\Comments.Core.dll
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\refint\Comments.Core.dll
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\Comments.Core.pdb
+P:\Programs\GitHub\Comments\Comments.Core\obj\Debug\net6.0\ref\Comments.Core.dll

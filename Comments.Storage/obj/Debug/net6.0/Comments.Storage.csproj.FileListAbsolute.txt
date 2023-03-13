@@ -1,0 +1,17 @@
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.csproj.AssemblyReference.cache
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.AssemblyInfoInputs.cache
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.AssemblyInfo.cs
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.csproj.CoreCompileInputs.cache
+P:\Programs\GitHub\Comments\Comments.Storage\bin\Debug\net6.0\Comments.Storage.deps.json
+P:\Programs\GitHub\Comments\Comments.Storage\bin\Debug\net6.0\Comments.Storage.runtimeconfig.json
+P:\Programs\GitHub\Comments\Comments.Storage\bin\Debug\net6.0\Comments.Storage.dll
+P:\Programs\GitHub\Comments\Comments.Storage\bin\Debug\net6.0\Comments.Storage.pdb
+P:\Programs\GitHub\Comments\Comments.Storage\bin\Debug\net6.0\Comments.Domain.dll
+P:\Programs\GitHub\Comments\Comments.Storage\bin\Debug\net6.0\Comments.Domain.pdb
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.csproj.CopyComplete
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.dll
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\refint\Comments.Storage.dll
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.pdb
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\Comments.Storage.genruntimeconfig.cache
+P:\Programs\GitHub\Comments\Comments.Storage\obj\Debug\net6.0\ref\Comments.Storage.dll
