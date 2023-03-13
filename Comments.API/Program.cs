@@ -33,11 +33,9 @@ namespace Comments.API
             services.AddMediatR(Assembly.GetExecutingAssembly(), typeof(AssemblyInfo).GetTypeInfo().Assembly);
 
             var app = builder.Build();
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+
+            app.UseSwagger();
+            app.UseSwaggerUI();
 
             app.UseErrorHandler(builder.Environment);
             app.UseHttpsRedirection();
