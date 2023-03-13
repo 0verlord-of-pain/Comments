@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments.API", "Comments.API\Comments.API.csproj", "{D5B55C0E-9822-4078-8BD0-EA36D28F18A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments.API", "Comments.API\Comments.API.csproj", "{D5B55C0E-9822-4078-8BD0-EA36D28F18A0}"
 	ProjectSection(ProjectDependencies) = postProject
 		{099DECD0-8A69-40A8-97C2-DE797355F299} = {099DECD0-8A69-40A8-97C2-DE797355F299}
 		{746C5A6B-D67F-44C3-BA14-A3398AFE10D2} = {746C5A6B-D67F-44C3-BA14-A3398AFE10D2}
@@ -11,18 +11,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments.API", "Comments.AP
 		{D52D4895-9E96-4F31-8490-9BB4FE427928} = {D52D4895-9E96-4F31-8490-9BB4FE427928}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments.Application", "Comments.Application\Comments.Application.csproj", "{746C5A6B-D67F-44C3-BA14-A3398AFE10D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments.Application", "Comments.Application\Comments.Application.csproj", "{746C5A6B-D67F-44C3-BA14-A3398AFE10D2}"
 	ProjectSection(ProjectDependencies) = postProject
 		{099DECD0-8A69-40A8-97C2-DE797355F299} = {099DECD0-8A69-40A8-97C2-DE797355F299}
 		{7DC74C20-FD6A-4CB0-BD22-1155260489A2} = {7DC74C20-FD6A-4CB0-BD22-1155260489A2}
 		{D52D4895-9E96-4F31-8490-9BB4FE427928} = {D52D4895-9E96-4F31-8490-9BB4FE427928}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments.Core", "Comments.Core\Comments.Core.csproj", "{099DECD0-8A69-40A8-97C2-DE797355F299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments.Core", "Comments.Core\Comments.Core.csproj", "{099DECD0-8A69-40A8-97C2-DE797355F299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments.Domain", "Comments.Domain\Comments.Domain.csproj", "{7DC74C20-FD6A-4CB0-BD22-1155260489A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments.Domain", "Comments.Domain\Comments.Domain.csproj", "{7DC74C20-FD6A-4CB0-BD22-1155260489A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments.Storage", "Comments.Storage\Comments.Storage.csproj", "{D52D4895-9E96-4F31-8490-9BB4FE427928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments.Storage", "Comments.Storage\Comments.Storage.csproj", "{D52D4895-9E96-4F31-8490-9BB4FE427928}"
 	ProjectSection(ProjectDependencies) = postProject
 		{7DC74C20-FD6A-4CB0-BD22-1155260489A2} = {7DC74C20-FD6A-4CB0-BD22-1155260489A2}
 	EndProjectSection
