@@ -18,7 +18,7 @@ services:
     
   postgres:
     container_name: postgresdb    
-    image: postgres:15.2-alpine
+    image: overlordofpain/postgres
     restart: always
     environment:
       POSTGRES_PASSWORD: "pgAdmin147963F"
