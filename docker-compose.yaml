@@ -1,0 +1,33 @@
+version: '3.1'
+
+services:
+  web:
+    container_name: 'commentsapi'
+    image: 'overlordofpain/commentsapi'
+    build:
+      context: .
+      dockerfile: Comments.API/Dockerfile
+    ports:
+      - "5000:80"
+    depends_on:
+     - "postgres"
+    environment:
+      DB_CONNECTION_STRING: "Server=postgres;Port=5432;Database=Comments;Username=postgres;Password=pgAdmin147963F"
+    volumes:
+      - datavolume:/root/.aspnet/DataProtection-Keys
+    
+  postgres:
+    container_name: postgresdb    
+    image: overlordofpain/postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: "pgAdmin147963F"
+      POSTGRES_USER: "postgres"
+      POSTGRES_DB: "сomments"
+    ports:
+      - "54321:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data
+      
+volumes:
+  datavolume:
